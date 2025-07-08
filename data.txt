@@ -1,3 +1,3 @@
 Name: Lewis Clark
 Age: 34
-Fave Colour: Red
+Fave Colour: RedAdding search feature notes...
